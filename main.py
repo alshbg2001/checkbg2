@@ -9,10 +9,10 @@ bot = Client(
     "bot",
     api_id=2033318,
     api_hash='223cde1537f217dda4e16183f47af958',
-    bot_token='5131640606:AAFXnnI19LkTXWEZ0YEVzYM2TA18OFHETDQ'
+    bot_token='5355707031:AAENUO0NebsW7IE7XlZ9ZT71D5XA-T1hykE'
 )
 
-Dev = 5098935434
+Dev = 961743188
 
 @bot.on_message(filters.command('start'))
 def start(bot, msg):
